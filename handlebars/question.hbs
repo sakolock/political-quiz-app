@@ -1,0 +1,22 @@
+<h2>Who Said the Following:</h2>
+<div class="question">
+<h3 id="quotation">&ldquo;{{{quotation}}}&rdquo;</h3>
+<div class="answer hidden">
+<h3>{{author.name}}</h3>
+<p>&ldquo;{{fullQuote}}&rdquo;</p>
+{{#with citation}}
+<p> - <cite><a href="{{href}}" target="_blank" >{{text}}</a>, {{date}}</cite></p>
+{{/with}}
+{{#if hasEmbed}}
+<div class="media-container dismissable">
+<a id="closeMedia" href="#">X</a>
+<iframe src="{{embed}}" title={{alt}} alt={{alt}} frameborder='0' fullscreen ></iframe>
+</div>
+{{/if}}
+</div>
+<div class="container">
+<div class="answer hidden text-center">
+<a id="another" href="#">Next</a>
+</div>
+</div>
+</div>

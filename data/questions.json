@@ -1,0 +1,138 @@
+{
+  "lastId": "10",
+  "data": [
+    {
+      "id": "10",
+      "quotation": "We cannot cede to other nations the technology that will power new jobs and new industries, we must claim its promise.  That’s how we will maintain our economic vitality and our national treasure -- our forests and waterways, our crop lands and snow-capped peaks.  That is how we will preserve our planet, commanded to our care by God.",
+      "author": {
+        "author_id": "3",
+        "name": "Barack Obama"},
+      "fullQuote": "We cannot cede to other nations the technology that will power new jobs and new industries, we must claim its promise.  That’s how we will maintain our economic vitality and our national treasure -- our forests and waterways, our crop lands and snow-capped peaks.  That is how we will preserve our planet, commanded to our care by God.",
+      "citation": {
+        "href": "https://obamawhitehouse.archives.gov/the-press-office/2013/01/21/inaugural-address-president-barack-obama",
+        "text": "Barack Obama's First Inaugural Address",
+        "date": "January 21, 2013"}},
+    {
+      "id": "1",
+      "quotation": "The Liberal State is a mask behind which there is no face; it is a scaffolding behind which there is no building.",
+      "author": {
+        "author_id": "1",
+        "name": "Benito Mussolini"},
+      "fullQuote": "The Liberal State is a mask behind which there is no face; it is a scaffolding behind which there is no building.",
+      "citation": {
+        "href": "none",
+        "text": "heresay",
+        "date": "none"}},
+    {
+      "id": "2",
+      "quotation": "It is humiliating to remain with our hands folded while others write history. It matters little who wins. To make a people great it is necessary to send them to battle even if you have to kick them in the pants.",
+      "author": {
+        "author_id": "1",
+        "name": "Benito Mussolini"
+      },
+      "fullQuote": "It is humiliating to remain with our hands folded while others write history. It matters little who wins. To make a people great it is necessary to send them to battle even if you have to kick them in the pants.",
+      "citation": {
+        "href": "none",
+        "text": "heresay",
+        "date": "none"}},
+    {
+      "id": "3",
+      "quotation": "It's always good to be underestimated.",
+      "author": {
+        "author_id": "2",
+        "name": "Donald Trump"
+      },
+      "fullQuote": "It's always good to be underestimated.",
+      "citation": {
+        "href": "none",
+        "text": "heresay",
+        "date": "none"}},
+    {
+      "id": "4",
+      "quotation": "One of the key problems today is that politics is such a disgrace, good people don't go into government.",
+      "author": {
+        "author_id": "2",
+        "name": "Donald Trump"
+      },
+      "fullQuote": "One of the key problems today is that politics is such a disgrace, good people don't go into government.",
+      "citation": {
+        "href": "none",
+        "text": "heresay",
+        "date": "none"}},
+    {
+      "id": "5",
+      "quotation": "I predict future happiness for Americans, if they can prevent the government from wasting the labors of the people under the pretense of taking care of them.",
+      "author": {
+        "author_id": 6,
+        "name": "Thomas Jefferson"
+      },
+      "fullQuote": "I predict future happiness for Americans, if they can prevent the government from wasting the labors of the people under the pretense of taking care of them.",
+      "citation": {
+        "href": "https://www.monticello.org/site/jefferson/wasting-labours-people-quotation",
+        "text": "Thomas Jefferson to Thomas Cooper",
+        "date": "November 29, 1802"}},      
+    {
+      "id": "6",
+      "quotation": "Democracy cannot succeed unless those who express their choice are prepared to choose wisely. The real safeguard of democracy, therefore, is education.",
+      "author": {
+        "author_id": "8",
+        "name": "Franklin D. Roosevelt"
+      },
+      "fullQuote": "Democracy cannot succeed unless those who express their choice are prepared to choose wisely. The real safeguard of democracy, therefore, is education.",
+      "citation": {
+        "href": "http://www.presidency.ucsb.edu/ws/?pid=15545",
+        "text": "Message for American Education Week",
+        "date": "September 27, 1938"}},      
+    {
+      "id": "7",
+      "quotation": "This is not someone who should ever have the nuclear codes – because it’s not hard to imagine [opponent] leading us into a war just because somebody got under [opponent's] very thin skin.",
+      "author": {
+        "author_id": "9",
+        "name": "Hillary Clinton"
+      },
+      "fullQuote": "This is not someone who should ever have the nuclear codes – because it’s not hard to imagine Donald Trump leading us into a war just because somebody got under his very thin skin.",
+      "citation": {
+        "href": "http://time.com/4355797/hillary-clinton-donald-trump-foreign-policy-speech-transcript/",
+        "text": "Hillary Clinton's Speech on Donald Trump and National Security",
+        "date": "June 02, 2016"}},      
+    {
+      "id": "11",
+      "quotation": "If you can convince the lowest [race] man he’s better than the best [race] man, he won’t notice you’re picking his pocket. Hell, give him somebody to look down on, and he’ll empty his pockets for you.",
+      "author": {
+        "author_id": "10",
+        "name": "Lyndon B Johnson"
+      },
+      "fullQuote": "If you can convince the lowest white man he’s better than the best colored man, he won’t notice you’re picking his pocket. Hell, give him somebody to look down on, and he’ll empty his pockets for you.",
+      "citation": {
+        "href": "https://www.washingtonpost.com/archive/opinions/1988/11/13/what-a-real-president-was-like/d483c1be-d0da-43b7-bde6-04e10106ff6c",
+        "text": "Lyndon B Johnson",
+        "date": "1960"}},      
+    {
+      "id": "8",
+      "quotation": "We have to tell the [opposition party], because they’re doing the wrong thing for the [nation's] people, to stop their tactics of delay and obstruction and destruction. They got to get on with it.",
+      "author": {
+        "author_id": "2",
+        "name": "Donald Trump"
+      },
+      "fullQuote": "We have to tell the Democrats, because they’re doing the wrong thing for the American people, to stop their tactics of delay and obstruction and destruction. They got to get on with it.",
+      "hasEmbed": "true",
+      "embed": "https://www.youtube.com/embed/TIo3lBkoceU?t=43m24s&rel=0",
+      "alt": "Donald Trump Rally in Melbourne, Fl",
+      "citation": {
+        "href": "https://youtu.be/TIo3lBkoceU?t=43m30s",
+        "text": "Donald Trump Rally in Melbourne, Fl",
+        "date": "February 18, 2017"}},      
+    {
+      "id": "9",
+      "quotation": "The dishonest media which has published one false story after another with no sources, even though they pretend they have them, they make them up in many cases, they just don't want to report the truth and they've been calling us wrong now for two years. They don't get it. By they're starting to get it. I can tell you that. They've become a big part of the problem. They are part of the corrupt system.",
+      "author": {
+        "author_id": "2",
+        "name": "Donald Trump"
+      },
+      "fullQuote": "The dishonest media which has published one false story after another with no sources, even though they pretend they have them, they make them up in many cases, they just don't want to report the truth and they've been calling us wrong now for two years. They don't get it. By they're starting to get it. I can tell you that. They've become a big part of the problem. They are part of the corrupt system.",
+      "citation": {
+        "href": "http://www.ajc.com/news/national/read-full-transcript-trump-rally-speech-florida/DeDCpoNEKLQmWcIKndWB0M/",
+        "text": "Donald Trump Rally in Melbourne, Fl",
+        "date": "February 18, 2017"}}
+  ]
+}

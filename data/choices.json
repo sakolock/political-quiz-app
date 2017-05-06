@@ -1,0 +1,36 @@
+{
+  "lastId": 10,
+  "data": [
+    {
+      "id": 1,
+      "name": "Benito Mussolini"
+    }, {
+      "id": 2,
+      "name": "Donald Trump"
+    }, {
+      "id": 3,
+      "name": "Barack Obama"
+    }, {
+      "id": 4,
+      "name": "Alexander Hamilton"
+    }, {
+      "id": 5,
+      "name": "Adolf Hitler"
+    }, {
+      "id": 6,
+      "name": "Thomas Jefferson"
+    }, {
+      "id": 7,
+      "name": "George Washington"
+    }, {
+      "id": 8,
+      "name": "Franklin D. Roosevelt"
+    }, {
+      "id": 9,
+      "name": "Hillary Clinton"
+    }, {
+      "id": 10,
+      "name": "Lyndon B Johnson"
+    }
+  ]
+}

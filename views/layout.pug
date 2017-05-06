@@ -1,0 +1,29 @@
+include /_mixins
+
+doctype html
+html
+  head
+    title Quiz App
+    +stylesheet_link_tag('application')
+    +javascript_include_tag('vendor/all')
+    +javascript_include_tag('handlebars_templates')
+  body
+    header
+      nav
+        ul
+          each link in headerNavLinks
+            li
+              a(href=link.href)= link.title
+    main.container
+      block content
+    footer
+
+  +javascript_include_tag('application')
+  +javascript_include_tag('models/question', 'models/choice')
+  +javascript_include_tag('collections/questions', 'collections/choices')
+  +javascript_include_tag('views/question', 'views/choices', 'views/choice', 'views/header', 'views/footer', 'views/dc_elites')
+  script(type='text/javascript').
+    App.questions = new QuestionsCollection(!{JSON.stringify(questions)});
+    App.choices = new ChoicesCollection(!{JSON.stringify(choices)});
+    App.init();
+  +javascript_include_tag('router')
