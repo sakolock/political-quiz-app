@@ -1,13 +1,9 @@
 {
   "name": "quiz-app",
-  "version": "0.0.1",
-  "description": "A quote quiz",
-  "engines": {
-    "node": "7.2.0"
-  },
-  "main": "index.js",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "nodemon ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.16.0",
@@ -20,15 +16,6 @@
     "require": "^2.4.20",
     "serve-favicon": "~2.3.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sakolock/political-quiz-app"
-  },
-  "keywords": [
-    "quiz",
-    "politics"
-  ],
-  "license": "MIT",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-autoprefixer": "^3.0.4",
