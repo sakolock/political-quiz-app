@@ -9,7 +9,6 @@ var router = new (Backbone.Router.extend({
   questionView: function() {
   },
   dcElites: function() {
-    console.log('got em');
     App.renderDCElitesPage();
     this.navigate('/Washington-DC-Elites');
   },
