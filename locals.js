@@ -21,7 +21,7 @@ module.exports = {
     title: 'Founding Fathers',
     href: '/Founding-Fathers-Quiz'
   }, {
-    title: 'Christian Values',
-    href: '/Christian-Values-Quiz'
+    title: 'Religious Freedom',
+    href: '/Religious-Freedom'
   }]
 };
